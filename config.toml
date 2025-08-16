@@ -1,4 +1,4 @@
 baseURL = "https://hugo.onrender.com"
-languageCode = "en-us"
-title = "Deploy Hugo on Render"
+languageCode = "es-es"
+title = "Deploy Hugo on Render solo para test"
 theme = "ananke"
